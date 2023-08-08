@@ -6,5 +6,5 @@ git clone https://github.com/Kota-Karthik/AgeWise.git
 cd AgeWise
 npm i
 
-#How to start?
+# How to start?
 npm run dev
